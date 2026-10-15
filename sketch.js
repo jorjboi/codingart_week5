@@ -9,8 +9,8 @@ function setup() {
 
   waveTimer = random(10);
 
-  xDir = random(-5, 3);
-  yDir = random(-5, 5);
+  xDir = random(4, 10);
+  yDir = random(4, 10);
 
   glowLayers = 40;
 
