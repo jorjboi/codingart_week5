@@ -1,1 +1,1 @@
-A new random Mondiran every second!
+A bouncing glowing ball that changes color
